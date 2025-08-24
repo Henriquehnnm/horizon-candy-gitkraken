@@ -1,8 +1,3 @@
-<html>
-  <head>
-    <title>README.md - Horizon Candy Theme for GitKraken</title>
-  </head>
-  <body style="font-family: sans-serif; line-height: 1.6;">
 
     <h1>Horizon Candy Theme for GitKraken</h1>
     <p>This is a port of the popular <a href="https://marketplace.visualstudio.com/items?itemName=Henriquehnnm.horizon-candy" target="_blank">Horizon Candy</a> theme for the GitKraken client. The theme has been adapted to the GitKraken custom theme format, keeping the characteristic color palette in two variations: <b>Candy (Dark)</b> and <b>Milk (Light)</b>.</p>
@@ -26,6 +21,3 @@
 
     <h2>Contribution</h2>
     <p>Contributions are very welcome! If you find any issues or have suggestions for improvement, feel free to open an <i>issue</i> or submit a <i>pull request</i> on the GitHub repository.</p>
-
-  </body>
-</html>
